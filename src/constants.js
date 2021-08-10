@@ -1,4 +1,4 @@
-const HOST = "https://poke-vercel-app.herokuapp.com/";
+const HOST = "https://poke-vercel-app.herokuapp.com";
 let POKEMON = "/pokemons";
 let POKENAME = "/pokemons?name=";
 let POKEID = "/pokemons/";
